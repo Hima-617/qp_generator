@@ -25,3 +25,31 @@ qp_generator/
 
 ## ▶️ Run the App
 streamlit run app.py
+
+---
+
+## 📸 Screenshots
+
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/d323528d-76ea-4603-bb17-c248a754338e" />
+
+---
+
+## 📦 Requirements
+
+- Python 3.x  
+- Streamlit (auto-installed via requirements.txt)
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## ❤️ Contributing
+
+Pull requests are welcome!  
+If you'd like a feature added, open an issue — suggestions are appreciated.
+
+---
